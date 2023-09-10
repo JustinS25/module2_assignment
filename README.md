@@ -5,6 +5,7 @@
 Citations
 
 AskBCS (LA help regarding small portions of coding syntax)
+
 row_count formulas: (Used AskBCS to have someone help me figure out the row counter to make this code possible using for loops)
 
 Script adjustments to run on all sheets at once: (Used AskBCS for help with syntax. Implemented this in code using .ws at each calculation made on each page)

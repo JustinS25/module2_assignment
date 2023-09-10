@@ -4,11 +4,11 @@
 
 Citations
 
-Do Until loop Syntax: (Used Do Until Loops to make loops run until end of spreadsheet since for loops require an end cell value. Since some spreadsheets are different sizes, for loops won't work for all cases)
-https://learn.microsoft.com/en-us/office/vba/language/reference/user-interface-help/doloop-statement
+AskBCS (LA help regarding small portions of coding syntax)
+row_count formulas: (Used AskBCS to have someone help me figure out the row counter to make this code possible using for loops)
 
-IsEmpty function: (Used function to determine that the Do Until Loop stops running when the cells are empty)
-https://learn.microsoft.com/en-us/office/vba/language/reference/user-interface-help/isempty-function
+Script adjustments to run on all sheets at once: (Used AskBCS for help with syntax. Implemented this in code using .ws at each calculation made on each page)
+
 
 Not Equal To Syntax: (Looked up how to say "Not Equal to" in VBA. This served a major purpose in helping create my if, else statements)
 https://learn.microsoft.com/en-us/office/vba/language/reference/user-interface-help/comparison-operators#syntax
@@ -20,4 +20,4 @@ https://learn.microsoft.com/en-us/office/vba/api/excel.range.columnwidth
 https://learn.microsoft.com/en-us/office/vba/api/excel.interior.color
 
 Module 2 Challenge:
-Used instructions as a guideline.
+Used instructions and pictures provided as a guideline.

@@ -37,10 +37,10 @@ Sub stocks():
             'Resetting total stock volume so next stock doesn't add on to previous
             volume = 0
             'Below if statement changes color of positive and negative percentages to green and red, respectively
-            If ws.Cells(counter + 1, 11) >= 0 Then
-                ws.Cells(counter + 1, 11).Interior.Color = RGB(0, 255, 0)
+            If ws.Cells(counter + 1, 10) >= 0 Then
+                ws.Cells(counter + 1, 10).Interior.Color = RGB(0, 255, 0)
             Else
-                ws.Cells(counter + 1, 11).Interior.Color = RGB(255, 0, 0)
+                ws.Cells(counter + 1, 10).Interior.Color = RGB(255, 0, 0)
             End If
             
         End If
